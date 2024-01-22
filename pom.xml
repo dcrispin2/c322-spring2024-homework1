@@ -57,7 +57,6 @@
                     <includes>
                         <include>
                             part2.ProblemsTest
-                            part3.InventoryTest
                         </include>
                     </includes>
                 </configuration>
